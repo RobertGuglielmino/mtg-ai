@@ -1,0 +1,9 @@
+/node_modules
+.env
+
+/AtomicCards.json
+/mtg_ai.js
+/tes.json
+/test_ai.py
+/mtg_bot.py
+
